@@ -1,1 +1,1 @@
-# top-rock-paper-scissors
+A project completed using directions from The Odin Project for the game rock, paper, scissors.
